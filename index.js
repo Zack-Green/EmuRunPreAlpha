@@ -1,2 +1,2 @@
-console.log('Zack Has No Bitches');
-alert("Zack Has No Bitches");
+console.log('Oi I do have bitches -Zack');
+alert("Oi I do have bitches -Zack");
